@@ -126,7 +126,10 @@ images/          скриншоты интерфейса и админки
 <tr>
 <td align="center"><img src="images/10-leads-sheet.png" width="330"><br><sub>Заявки</sub></td>
 <td align="center"><img src="images/11-settings-sheet.png" width="330"><br><sub>Настройки</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="images/12-screens-sheet.png" width="330"><br><sub>Сценарий</sub></td>
+<td align="center"><img src="images/14-options-sheet.png" width="330"><br><sub>Кнопки</sub></td>
 </tr>
 </table>
 
