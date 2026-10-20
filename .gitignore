@@ -1,0 +1,16 @@
+# Секреты и локальные данные
+.env
+.env.*
+!.env.example
+pass.txt
+secrets.txt
+*.token
+*.log
+
+# Системное
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+venv/
+node_modules/
